@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.blue {
+  width: 500px;
+  height: 500px;
+  border-bottom: 30px solid #f6d155;
+  background-color: #9896a4; }
+
+.grey {
+  width: 500px;
+  height: 500px;
+  background-color: #5484a4; }
